@@ -1,1 +1,1 @@
-# travis-ci-php-examples
+# Example Integration Project PHP with Travis CI
